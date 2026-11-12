@@ -1,0 +1,3 @@
+# Preserve the original bytes of the two archived research modules.
+swot_obs_operator.py -text
+swot_rri_transfer_operator.py -text

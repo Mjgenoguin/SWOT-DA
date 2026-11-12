@@ -1,6 +1,10 @@
 # Persistence and spatial consistency of river water-level improvements from intermittent SWOT assimilation
 
-This repository contains the analysis and plotting code for Figures 6–9 of the Upper Nan River Basin manuscript. The figures evaluate water levels at three main-stem gauges (NAN001, NAN002 and NAN003) after SWOT RiverSP node water-surface elevations were assimilated into the Rainfall–Runoff–Inundation (RRI) model. The open loop is the comparison simulation run without assimilation updates.
+This repository contains the SWOT observation-operator code and the analysis and plotting code for Figures 6–9 of the Upper Nan River Basin manuscript. The figures evaluate water levels at three main-stem gauges (NAN001, NAN002 and NAN003) after SWOT RiverSP node water-surface elevations were assimilated into the Rainfall–Runoff–Inundation (RRI) model. The open loop is the comparison simulation run without assimilation updates.
+
+## Data assimilation
+
+The [SWOT observation modules](assimilation/README.md) transform processed SWOT water-surface elevations to model-comparable river depths and sample the corresponding cells in each particle. The [RRI particle-filter workflow](assimilation/workflow.md) describes how the external driver uses those values, which configuration produced the principal results, and how the NAN003-only experiment and the 2026 temporal test differ.
 
 ## Reproduce the figures
 
