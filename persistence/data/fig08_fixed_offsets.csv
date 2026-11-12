@@ -1,0 +1,121 @@
+station,lead_day,series,rmse_m,paired_origins
+NAN001,0,Raw open loop,2.119676750656807,12
+NAN001,1,Raw open loop,1.9534003612099082,12
+NAN001,2,Raw open loop,2.011746760947643,12
+NAN001,3,Raw open loop,2.0875218691888398,12
+NAN001,4,Raw open loop,2.1938785799849243,12
+NAN001,5,Raw open loop,1.6870026533816318,12
+NAN001,6,Raw open loop,1.5497113225076253,12
+NAN001,7,Raw open loop,1.67442326830514,12
+NAN001,8,Raw open loop,1.8233797338847624,12
+NAN001,9,Raw open loop,1.797981325375767,12
+NAN001,0,Offset-corrected open loop,1.7236224107509595,12
+NAN001,1,Offset-corrected open loop,1.5869025501219751,12
+NAN001,2,Offset-corrected open loop,1.6644657428792322,12
+NAN001,3,Offset-corrected open loop,1.7230771410913164,12
+NAN001,4,Offset-corrected open loop,1.9530957817977441,12
+NAN001,5,Offset-corrected open loop,1.4075380200536256,12
+NAN001,6,Offset-corrected open loop,1.2014363620081503,12
+NAN001,7,Offset-corrected open loop,1.390638606910899,12
+NAN001,8,Offset-corrected open loop,1.4971160818539673,12
+NAN001,9,Offset-corrected open loop,1.504243889166979,12
+NAN001,0,Raw assimilation,0.8455824335789094,12
+NAN001,1,Raw assimilation,1.0242708694230287,12
+NAN001,2,Raw assimilation,1.253125127987419,12
+NAN001,3,Raw assimilation,1.5471697844949412,12
+NAN001,4,Raw assimilation,1.8905223416122885,12
+NAN001,5,Raw assimilation,1.345566789684859,12
+NAN001,6,Raw assimilation,1.1962680273399613,12
+NAN001,7,Raw assimilation,1.5060463597225118,12
+NAN001,8,Raw assimilation,1.6273865609604226,12
+NAN001,9,Raw assimilation,1.5665463441937821,12
+NAN001,0,Offset-corrected assimilation,0.7197932925394921,12
+NAN001,1,Offset-corrected assimilation,0.8717471869204105,12
+NAN001,2,Offset-corrected assimilation,1.0858084107841124,12
+NAN001,3,Offset-corrected assimilation,1.3313030218028357,12
+NAN001,4,Offset-corrected assimilation,1.773161112486173,12
+NAN001,5,Offset-corrected assimilation,1.1922621581382096,12
+NAN001,6,Offset-corrected assimilation,1.0132342091570683,12
+NAN001,7,Offset-corrected assimilation,1.3848233208548837,12
+NAN001,8,Offset-corrected assimilation,1.4471197616940839,12
+NAN001,9,Offset-corrected assimilation,1.409415467309544,12
+NAN002,0,Raw open loop,2.419905977515793,12
+NAN002,1,Raw open loop,2.356425750596653,12
+NAN002,2,Raw open loop,2.354635033375661,12
+NAN002,3,Raw open loop,2.523602197374156,12
+NAN002,4,Raw open loop,3.0311516905075315,12
+NAN002,5,Raw open loop,2.124190757151218,12
+NAN002,6,Raw open loop,1.8028211801645775,12
+NAN002,7,Raw open loop,2.5744131023384083,12
+NAN002,8,Raw open loop,2.054238239005317,12
+NAN002,9,Raw open loop,2.151628118191354,12
+NAN002,0,Offset-corrected open loop,1.7869351984776665,12
+NAN002,1,Offset-corrected open loop,1.7541608772350723,12
+NAN002,2,Offset-corrected open loop,1.796551952002662,12
+NAN002,3,Offset-corrected open loop,1.931576954696763,12
+NAN002,4,Offset-corrected open loop,2.7777019861161114,12
+NAN002,5,Offset-corrected open loop,1.708278997395424,12
+NAN002,6,Offset-corrected open loop,1.3055781372822453,12
+NAN002,7,Offset-corrected open loop,2.3872172742251854,12
+NAN002,8,Offset-corrected open loop,1.5562928892077712,12
+NAN002,9,Offset-corrected open loop,1.6736337486511483,12
+NAN002,0,Raw assimilation,0.7879570310239156,12
+NAN002,1,Raw assimilation,0.9674599995139225,12
+NAN002,2,Raw assimilation,1.281426084145177,12
+NAN002,3,Raw assimilation,1.6197767406909647,12
+NAN002,4,Raw assimilation,2.8659238625424486,12
+NAN002,5,Raw assimilation,1.750256377383492,12
+NAN002,6,Raw assimilation,1.405090804768644,12
+NAN002,7,Raw assimilation,2.5679773072859553,12
+NAN002,8,Raw assimilation,1.7575041547961472,12
+NAN002,9,Raw assimilation,1.8885973372010862,12
+NAN002,0,Offset-corrected assimilation,1.0812761791540777,12
+NAN002,1,Offset-corrected assimilation,0.9597231594574746,12
+NAN002,2,Offset-corrected assimilation,1.1333213376221656,12
+NAN002,3,Offset-corrected assimilation,1.2571581096089646,12
+NAN002,4,Offset-corrected assimilation,2.8070799143930607,12
+NAN002,5,Offset-corrected assimilation,1.547342397678148,12
+NAN002,6,Offset-corrected assimilation,1.143935728689578,12
+NAN002,7,Offset-corrected assimilation,2.560578808580799,12
+NAN002,8,Offset-corrected assimilation,1.4848134449842756,12
+NAN002,9,Offset-corrected assimilation,1.6022063850569412,12
+NAN003,0,Raw open loop,1.7559781981918223,12
+NAN003,1,Raw open loop,1.768478888421252,12
+NAN003,2,Raw open loop,1.7572860501589755,12
+NAN003,3,Raw open loop,1.9283415351842281,12
+NAN003,4,Raw open loop,2.3041490349964344,12
+NAN003,5,Raw open loop,1.8224400460257488,12
+NAN003,6,Raw open loop,1.465626567325388,12
+NAN003,7,Raw open loop,1.9422981647973103,12
+NAN003,8,Raw open loop,1.7396106564472982,12
+NAN003,9,Raw open loop,1.5359506110793408,12
+NAN003,0,Offset-corrected open loop,1.2741156927386295,12
+NAN003,1,Offset-corrected open loop,1.305657491281004,12
+NAN003,2,Offset-corrected open loop,1.3852690041169478,12
+NAN003,3,Offset-corrected open loop,1.5332641555145685,12
+NAN003,4,Offset-corrected open loop,2.1362211695746893,12
+NAN003,5,Offset-corrected open loop,1.5935471856430778,12
+NAN003,6,Offset-corrected open loop,1.1175110299244269,12
+NAN003,7,Offset-corrected open loop,1.7944706180411716,12
+NAN003,8,Offset-corrected open loop,1.455148081702822,12
+NAN003,9,Offset-corrected open loop,1.171591957522389,12
+NAN003,0,Raw assimilation,0.677907027332594,12
+NAN003,1,Raw assimilation,0.8171880243582254,12
+NAN003,2,Raw assimilation,1.147882252726009,12
+NAN003,3,Raw assimilation,1.4145272162600113,12
+NAN003,4,Raw assimilation,2.2154296505222546,12
+NAN003,5,Raw assimilation,1.6528834927774545,12
+NAN003,6,Raw assimilation,1.2028498386997262,12
+NAN003,7,Raw assimilation,1.929524663377069,12
+NAN003,8,Raw assimilation,1.6412430172861319,12
+NAN003,9,Raw assimilation,1.3711870963386223,12
+NAN003,0,Offset-corrected assimilation,0.6659560648546452,12
+NAN003,1,Offset-corrected assimilation,0.6879016301185574,12
+NAN003,2,Offset-corrected assimilation,1.0432142878436745,12
+NAN003,3,Offset-corrected assimilation,1.2495325917622948,12
+NAN003,4,Offset-corrected assimilation,2.172069735778462,12
+NAN003,5,Offset-corrected assimilation,1.5699123733904636,12
+NAN003,6,Offset-corrected assimilation,1.0430129283026428,12
+NAN003,7,Offset-corrected assimilation,1.8882079200410016,12
+NAN003,8,Offset-corrected assimilation,1.5246000424178674,12
+NAN003,9,Offset-corrected assimilation,1.2046049196296469,12
