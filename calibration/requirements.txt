@@ -1,0 +1,4 @@
+# Versions used for the publication import and numerical smoke checks.
+# These are not a recovered historical execution environment.
+numpy==1.26.4
+pandas==2.2.2

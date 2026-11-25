@@ -1,6 +1,10 @@
 # Persistence and spatial consistency of river water-level improvements from intermittent SWOT assimilation
 
-This repository contains the SWOT observation-operator code and the analysis and plotting code for Figures 6–9 of the Upper Nan River Basin manuscript. The figures evaluate water levels at three main-stem gauges (NAN001, NAN002 and NAN003) after SWOT RiverSP node water-surface elevations were assimilated into the Rainfall–Runoff–Inundation (RRI) model. The open loop is the comparison simulation run without assimilation updates.
+This repository contains the two-stage NSGA-II calibration drivers, SWOT observation-operator code and analysis and plotting code for Figures 6–9 of the Upper Nan River Basin manuscript. The figures evaluate water levels at three main-stem gauges (NAN001, NAN002 and NAN003) after SWOT RiverSP node water-surface elevations were assimilated into the Rainfall–Runoff–Inundation (RRI) model. The open loop is the comparison simulation run without assimilation updates.
+
+## RRI calibration
+
+The [calibration package](calibration/README.md) provides the single-station hydrological-parameter driver and the three-station river-depth-profile driver. It documents their inputs, objectives, retained settings and source provenance. The recovered first-stage source has configuration differences from the historical execution record; this package does not claim complete reproduction of that run. See the [software citation guidance](calibration/CITATION.md) when citing a fixed repository revision.
 
 ## Data assimilation
 

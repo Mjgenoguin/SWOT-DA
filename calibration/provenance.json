@@ -1,0 +1,37 @@
+{
+  "published_date": "2026-11-25",
+  "source_changes": "None; Python source bytes preserved, including line endings.",
+  "files": [
+    {
+      "path": "stage1/MultiCoreTrueNSGA2.py",
+      "source_archive_path": "Dissertation/01_Objective1/Nan_5LULC/MultiCoreTrueNSGA2.py",
+      "sha256": "9ce62e60a1275836999ce7f658ce28f16dbb1b7f5edff182fb3a568f3ce09187",
+      "bytes": 52837
+    },
+    {
+      "path": "stage2/MultiCoreTrueNSGA2_ThreeStations_DepthProfile_Dedup_184d.py",
+      "source_archive_path": "00_Objective1/Nan_5LULC/MultiCoreTrueNSGA2_ThreeStations_DepthProfile_Dedup_184d.py",
+      "sha256": "95b54a6a076fe6bc0a21ff9b8ab45e25a02ed4bbddd0af088f7eb47e3a17f1e2",
+      "bytes": 113108
+    }
+  ],
+  "supporting_evidence_not_distributed": [
+    {
+      "role": "stage1_execution_log",
+      "archive_path": "Dissertation/01_Objective1/Best_Ind_Nan/Archive/GA_run_log_5LULC.jsonl",
+      "sha256": "740b2621adc9df471cd469142cdcc77ff53bc75505ca840423cf8cd297939a9f"
+    },
+    {
+      "role": "stage2_completed_job",
+      "archive_path": "00_Objective1/Nan_5LULC/Nan5LULC_Depth_GA_17923.out",
+      "sha256": "2443c957b1a750d43b253a77d715e8b275fc625cb02160489d5082735b6cd639"
+    },
+    {
+      "role": "stage2_final_selection",
+      "archive_path": "00_Objective1/Nan_5LULC/Archive_ThreeStations_DepthProfile_Nan5LULC_184d_Dedup/Final_Best_DepthProfile.json",
+      "sha256": "fc01c57d7e8032280638429b2c90507c1c73a6e2c277f8c471bd3aad49ed4276"
+    }
+  ],
+  "stage1_provenance_limit": "Recovered implementation snapshot. Published defaults specify 20 generations; retained execution contains 1000 records through generation 50. Exact submitted source revision and full historical optimizer configuration remain unverified.",
+  "stage2_provenance": "Retained depth-profile driver associated with job 17923 and the final generation-100 selection. Job log confirms population 10, 100 generations, 10 workers and one OpenMP thread; other source defaults are not independently established by that log."
+}
